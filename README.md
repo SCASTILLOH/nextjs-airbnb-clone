@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=c_-b_isI4vg
 - zustand
 - axios
 - react-hook-form
+- react-hot-toast
 
 ```
 npm run dev
