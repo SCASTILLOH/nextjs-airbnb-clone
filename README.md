@@ -8,8 +8,8 @@ https://www.youtube.com/watch?v=c_-b_isI4vg
 - Tailwind
 - Prisma
 - MongoDB
+- react-icons
 
-correr app
 
 ```
 npm run dev
