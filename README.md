@@ -13,7 +13,12 @@ https://www.youtube.com/watch?v=c_-b_isI4vg
 - axios
 - react-hook-form
 - react-hot-toast
+- bcrypt
 
 ```
 npm run dev
+```
+
+```
+npm prisma init
 ```
