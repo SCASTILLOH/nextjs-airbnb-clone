@@ -9,9 +9,10 @@ https://www.youtube.com/watch?v=c_-b_isI4vg
 - Prisma
 - MongoDB
 - react-icons
-
+- zustand
+- axios
+- react-hook-form
 
 ```
 npm run dev
 ```
-
