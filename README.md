@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=c_-b_isI4vg
 - bcrypt
 - query-string
 - world-countries
+- react-select
 
 ```
 npm run dev
