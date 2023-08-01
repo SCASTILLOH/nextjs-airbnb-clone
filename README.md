@@ -18,6 +18,7 @@ https://www.youtube.com/watch?v=c_-b_isI4vg
 - world-countries
 - react-select
 - react-leaflet
+- next-cloudinary
 
 ```
 npm run dev
