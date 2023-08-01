@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=c_-b_isI4vg
 - query-string
 - world-countries
 - react-select
+- react-leaflet
 
 ```
 npm run dev
