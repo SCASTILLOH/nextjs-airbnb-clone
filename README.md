@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=c_-b_isI4vg
 - react-hook-form
 - react-hot-toast
 - bcrypt
+- query-string
 
 ```
 npm run dev
