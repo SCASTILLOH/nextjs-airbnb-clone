@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=c_-b_isI4vg
 - react-select
 - react-leaflet
 - next-cloudinary
+- date-fns
 
 ```
 npm run dev
