@@ -1,6 +1,6 @@
 "use client";
 import { categories } from "@/app/components/navbar/Categories";
-import { SafeListing, SafeReservations, SafeUser } from "@/app/types";
+import { SafeListing, SafeReservation, SafeUser } from "@/app/types";
 import { Reservation } from "@prisma/client";
 import { useRouter } from "next/navigation";
 import { differenceInCalendarDays, eachDayOfInterval } from "date-fns/esm";
@@ -22,7 +22,7 @@ const initialDateRange = {
 };
 
 interface ListingClientProps {
-  reservations?: SafeReservations[];
+  reservations?: SafeReservation[];
   listing: SafeListing & {
     user: SafeUser;
   };
