@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=c_-b_isI4vg
 - react-leaflet
 - next-cloudinary
 - date-fns
+- react-date-range
 
 ```
 npm run dev
