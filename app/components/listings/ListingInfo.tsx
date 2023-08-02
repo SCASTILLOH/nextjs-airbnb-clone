@@ -3,9 +3,13 @@ import useCountries from "@/app/hooks/useCountries";
 import { SafeUser } from "@/app/types";
 import React from "react";
 import { IconType } from "react-icons";
-import Map from "../Map";
 import ListingCategory from "./ListingCategory";
 import Avatar from "../Avatar";
+import dynamic from "next/dynamic";
+
+const Map = dynamic(() => import("../Map"), {
+  ssr: false,
+});
 
 interface ListingInfoProps {
   user: SafeUser;
