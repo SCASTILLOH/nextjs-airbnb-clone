@@ -7,7 +7,7 @@ interface SearchModalProps {
 }
 
 const useSearchModal = create<SearchModalProps>((set) => ({
-  isOpen: true,
+  isOpen: false,
   onOpen: () => set({ isOpen: true }),
   onClose: () => set({ isOpen: false }),
 }));
