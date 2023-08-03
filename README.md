@@ -21,6 +21,7 @@ https://www.youtube.com/watch?v=c_-b_isI4vg
 - next-cloudinary
 - date-fns
 - react-date-range
+- react-spinners
 
 ```
 npm run dev
