@@ -4,9 +4,9 @@ Thanks to the instructor Antonio!!
 
 https://www.youtube.com/watch?v=c_-b_isI4vg
 
-<img src="image.png" alt="nextjs" width="400">
-<img src="image2.png" alt="nextjs" width="400">
-<img src="image3.png" alt="nextjs" width="400">
+<img src="image.png" alt="nextjs" width="600">
+<img src="image2.png" alt="nextjs" width="600">
+<img src="image3.png" alt="nextjs" width="600">
 
 - React
 - NextJS 13
