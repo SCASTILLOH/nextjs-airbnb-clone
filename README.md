@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=c_-b_isI4vg
 <img src="image3.png" alt="nextjs" width="600">
 
 Link to the app deployed with Vercel 👍:
+
 https://nextjs-tutorial-h66fqrk6s-scastilloh.vercel.app/
 
 - React
